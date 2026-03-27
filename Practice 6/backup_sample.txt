@@ -1,4 +1,0 @@
-Hello
-This is a sample file
-New line 1
-New line 2
